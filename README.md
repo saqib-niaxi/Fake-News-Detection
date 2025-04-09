@@ -1,7 +1,4 @@
-# Fake-News-Detection
 # Fake News Detection System
-
-![Fake News Detector Banner](https://via.placeholder.com/900x200.png?text=Fake+News+Detector) <!-- Optional: Replace with a custom banner -->
 
 A machine learning-powered system to detect fake news articles by analyzing text input. This project fulfills Task 3 of my internship, demonstrating skills in text preprocessing, model training, and web app deployment using Python and Jupyter widgets.
 
@@ -11,7 +8,7 @@ A machine learning-powered system to detect fake news articles by analyzing text
 
 **Goal**: Build a model to classify news articles as "Real" or "Fake" using machine learning techniques and deploy it as an interactive web app.
 
-**Dataset**: [Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) (Note: Not uploaded due to size; link provided).
+**Dataset**: [Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) (Not uploaded due to size; link provided).
 
 **Expected Outcome**: A user-friendly system that distinguishes genuine news from misleading articles with high accuracy.
 
@@ -39,4 +36,5 @@ A machine learning-powered system to detect fake news articles by analyzing text
 
 ---
 
-## 📂 Repository Structure
+## 👩‍💻 Author
+**Name: Muhammad Saqib Khan**
