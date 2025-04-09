@@ -8,7 +8,7 @@ A machine learning-powered system to detect fake news articles by analyzing text
 
 **Goal**: Build a model to classify news articles as "Real" or "Fake" using machine learning techniques and deploy it as an interactive web app.
 
-**Dataset**: [Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) (Not uploaded due to size; link provided).
+**Dataset**: [Fake and Real News Dataset](https://www.kaggle.com/code/therealsampat/fake-news-detection) 
 
 **Expected Outcome**: A user-friendly system that distinguishes genuine news from misleading articles with high accuracy.
 
